@@ -1,0 +1,27 @@
+{
+  "name": "note_taker",
+  "version": "1.0.0",
+  "description": "a note taking app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidcastrodesign/Note_Taker.git"
+  },
+  "keywords": [
+    "note_taker"
+  ],
+  "author": "David Castro Castaneda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidcastrodesign/Note_Taker/issues"
+  },
+  "homepage": "https://github.com/davidcastrodesign/Note_Taker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^8.2.0"
+  }
+}
